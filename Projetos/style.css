@@ -1,0 +1,33 @@
+@charset "UTF-8" ;
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+header {
+    height: 70vh;
+    background-image: url(Projeto-Tênis/imagens/Jordan3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+article {
+    width: 400px;
+    height: 350px;
+    margin: auto;
+    text-align: center;
+}
